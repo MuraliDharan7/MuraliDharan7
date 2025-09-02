@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muralidharan007)">LinkedIn</a> -
-  <a href="ngmurali007@gmail.com">Contact me</a> -
+  <a href="ngmurali007@gmail.com">Contact me ~ </a> -
 </p> 
 
 -----------------------------------------------------------
